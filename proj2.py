@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# author: Vivek Jain
 
 from copy import deepcopy
 import math
